@@ -1,3 +1,35 @@
+# TODO List Application
+
+A simple TODO list application built with React and Bootstrap. This application allows users to add, edit, and delete items from a list. 
+
+## Features
+
+- Add items to the TODO list
+- Edit existing items
+- Delete items from the list
+- Centered input group and list
+- Custom styles for buttons and list items
+
+## Screenshots
+
+![Screenshot](screenshot.png)
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+
+- Node.js
+- npm (Node Package Manager)
+
+### Installing
+
+Clone the repository to your local machine:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
