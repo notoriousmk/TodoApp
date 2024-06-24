@@ -1,0 +1,56 @@
+.input-group {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.input-group .form-control {
+  width: 15rem;
+  height: 2rem;
+}
+
+.input-group .btn {
+  background-color: blue;
+  color: white;
+  border: none;
+  height: 2rem;
+  margin-left: .5rem;
+}
+
+.list-group-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; 
+}
+
+.list-group-item {
+  font-size: 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  width: 20rem;
+  height: 3rem;
+}
+
+.list-group-item .btn {
+  background-color: blue; 
+  color: white;
+  border: none;
+  margin-left: 20px;
+  padding: 4px 5px; 
+}
+
+.list-group-item .btn-edit {
+  background-color: blue;
+  padding: 4px 10px;
+}
+
+.list-group-item .btn-delete {
+  background-color: red;
+}
+
+.list-group-item span {
+  flex: 1;
+  text-align: left;
+  margin-right: 10px;
+}
