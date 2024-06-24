@@ -10,10 +10,6 @@ A simple TODO list application built with React and Bootstrap. This application 
 - Centered input group and list
 - Custom styles for buttons and list items
 
-## Screenshots
-
-![Screenshot](screenshot.png)
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
